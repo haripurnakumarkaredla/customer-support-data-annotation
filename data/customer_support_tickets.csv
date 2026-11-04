@@ -1,0 +1,101 @@
+ticket_id,customer_id,message,product,channel,date
+TICKET_000,CUST_000,My order has not arrived yet.,Electronics,Email,2026-10-01
+TICKET_001,CUST_001,I want to return my damaged product.,Fashion,Chat,2026-10-02
+TICKET_002,CUST_002,The payment was deducted twice.,Electronics,Phone,2026-10-03
+TICKET_003,CUST_003,Thank you for the excellent service.,Home,Email,2026-10-04
+TICKET_004,CUST_004,I cannot log in to my account.,Software,Chat,2026-10-05
+TICKET_005,CUST_005,Please cancel my order immediately.,Fashion,Phone,2026-10-06
+TICKET_006,CUST_006,The product quality is very poor.,Home,Email,2026-10-07
+TICKET_007,CUST_007,I received the wrong item.,Electronics,Chat,2026-10-08
+TICKET_008,CUST_008,I am happy with my purchase.,Fashion,Email,2026-10-09
+TICKET_009,CUST_009,My refund has not been processed.,Home,Phone,2026-10-10
+TICKET_010,CUST_010,My order has not arrived yet.,Electronics,Email,2026-10-11
+TICKET_011,CUST_011,I want to return my damaged product.,Fashion,Chat,2026-10-12
+TICKET_012,CUST_012,The payment was deducted twice.,Electronics,Phone,2026-10-13
+TICKET_013,CUST_013,Thank you for the excellent service.,Home,Email,2026-10-14
+TICKET_014,CUST_014,I cannot log in to my account.,Software,Chat,2026-10-15
+TICKET_015,CUST_015,Please cancel my order immediately.,Fashion,Phone,2026-10-16
+TICKET_016,CUST_016,The product quality is very poor.,Home,Email,2026-10-17
+TICKET_017,CUST_017,I received the wrong item.,Electronics,Chat,2026-10-18
+TICKET_018,CUST_018,I am happy with my purchase.,Fashion,Email,2026-10-19
+TICKET_019,CUST_019,My refund has not been processed.,Home,Phone,2026-10-20
+TICKET_020,CUST_020,My order has not arrived yet.,Electronics,Email,2026-10-21
+TICKET_021,CUST_021,I want to return my damaged product.,Fashion,Chat,2026-10-22
+TICKET_022,CUST_022,The payment was deducted twice.,Electronics,Phone,2026-10-23
+TICKET_023,CUST_023,Thank you for the excellent service.,Home,Email,2026-10-24
+TICKET_024,CUST_024,I cannot log in to my account.,Software,Chat,2026-10-25
+TICKET_025,CUST_025,Please cancel my order immediately.,Fashion,Phone,2026-10-26
+TICKET_026,CUST_026,The product quality is very poor.,Home,Email,2026-10-27
+TICKET_027,CUST_027,I received the wrong item.,Electronics,Chat,2026-10-28
+TICKET_028,CUST_028,I am happy with my purchase.,Fashion,Email,2026-10-01
+TICKET_029,CUST_029,My refund has not been processed.,Home,Phone,2026-10-02
+TICKET_030,CUST_030,My order has not arrived yet.,Electronics,Email,2026-10-03
+TICKET_031,CUST_031,I want to return my damaged product.,Fashion,Chat,2026-10-04
+TICKET_032,CUST_032,The payment was deducted twice.,Electronics,Phone,2026-10-05
+TICKET_033,CUST_033,Thank you for the excellent service.,Home,Email,2026-10-06
+TICKET_034,CUST_034,I cannot log in to my account.,Software,Chat,2026-10-07
+TICKET_035,CUST_035,Please cancel my order immediately.,Fashion,Phone,2026-10-08
+TICKET_036,CUST_036,The product quality is very poor.,Home,Email,2026-10-09
+TICKET_037,CUST_037,I received the wrong item.,Electronics,Chat,2026-10-10
+TICKET_038,CUST_038,I am happy with my purchase.,Fashion,Email,2026-10-11
+TICKET_039,CUST_039,My refund has not been processed.,Home,Phone,2026-10-12
+TICKET_040,CUST_040,My order has not arrived yet.,Electronics,Email,2026-10-13
+TICKET_041,CUST_041,I want to return my damaged product.,Fashion,Chat,2026-10-14
+TICKET_042,CUST_042,The payment was deducted twice.,Electronics,Phone,2026-10-15
+TICKET_043,CUST_043,Thank you for the excellent service.,Home,Email,2026-10-16
+TICKET_044,CUST_044,I cannot log in to my account.,Software,Chat,2026-10-17
+TICKET_045,CUST_045,Please cancel my order immediately.,Fashion,Phone,2026-10-18
+TICKET_046,CUST_046,The product quality is very poor.,Home,Email,2026-10-19
+TICKET_047,CUST_047,I received the wrong item.,Electronics,Chat,2026-10-20
+TICKET_048,CUST_048,I am happy with my purchase.,Fashion,Email,2026-10-21
+TICKET_049,CUST_049,My refund has not been processed.,Home,Phone,2026-10-22
+TICKET_050,CUST_050,My order has not arrived yet.,Electronics,Email,2026-10-23
+TICKET_051,CUST_051,I want to return my damaged product.,Fashion,Chat,2026-10-24
+TICKET_052,CUST_052,The payment was deducted twice.,Electronics,Phone,2026-10-25
+TICKET_053,CUST_053,Thank you for the excellent service.,Home,Email,2026-10-26
+TICKET_054,CUST_054,I cannot log in to my account.,Software,Chat,2026-10-27
+TICKET_055,CUST_055,Please cancel my order immediately.,Fashion,Phone,2026-10-28
+TICKET_056,CUST_056,The product quality is very poor.,Home,Email,2026-10-01
+TICKET_057,CUST_057,I received the wrong item.,Electronics,Chat,2026-10-02
+TICKET_058,CUST_058,I am happy with my purchase.,Fashion,Email,2026-10-03
+TICKET_059,CUST_059,My refund has not been processed.,Home,Phone,2026-10-04
+TICKET_060,CUST_060,My order has not arrived yet.,Electronics,Email,2026-10-05
+TICKET_061,CUST_061,I want to return my damaged product.,Fashion,Chat,2026-10-06
+TICKET_062,CUST_062,The payment was deducted twice.,Electronics,Phone,2026-10-07
+TICKET_063,CUST_063,Thank you for the excellent service.,Home,Email,2026-10-08
+TICKET_064,CUST_064,I cannot log in to my account.,Software,Chat,2026-10-09
+TICKET_065,CUST_065,Please cancel my order immediately.,Fashion,Phone,2026-10-10
+TICKET_066,CUST_066,The product quality is very poor.,Home,Email,2026-10-11
+TICKET_067,CUST_067,I received the wrong item.,Electronics,Chat,2026-10-12
+TICKET_068,CUST_068,I am happy with my purchase.,Fashion,Email,2026-10-13
+TICKET_069,CUST_069,My refund has not been processed.,Home,Phone,2026-10-14
+TICKET_070,CUST_070,My order has not arrived yet.,Electronics,Email,2026-10-15
+TICKET_071,CUST_071,I want to return my damaged product.,Fashion,Chat,2026-10-16
+TICKET_072,CUST_072,The payment was deducted twice.,Electronics,Phone,2026-10-17
+TICKET_073,CUST_073,Thank you for the excellent service.,Home,Email,2026-10-18
+TICKET_074,CUST_074,I cannot log in to my account.,Software,Chat,2026-10-19
+TICKET_075,CUST_075,Please cancel my order immediately.,Fashion,Phone,2026-10-20
+TICKET_076,CUST_076,The product quality is very poor.,Home,Email,2026-10-21
+TICKET_077,CUST_077,I received the wrong item.,Electronics,Chat,2026-10-22
+TICKET_078,CUST_078,I am happy with my purchase.,Fashion,Email,2026-10-23
+TICKET_079,CUST_079,My refund has not been processed.,Home,Phone,2026-10-24
+TICKET_080,CUST_080,My order has not arrived yet.,Electronics,Email,2026-10-25
+TICKET_081,CUST_081,I want to return my damaged product.,Fashion,Chat,2026-10-26
+TICKET_082,CUST_082,The payment was deducted twice.,Electronics,Phone,2026-10-27
+TICKET_083,CUST_083,Thank you for the excellent service.,Home,Email,2026-10-28
+TICKET_084,CUST_084,I cannot log in to my account.,Software,Chat,2026-10-01
+TICKET_085,CUST_085,Please cancel my order immediately.,Fashion,Phone,2026-10-02
+TICKET_086,CUST_086,The product quality is very poor.,Home,Email,2026-10-03
+TICKET_087,CUST_087,I received the wrong item.,Electronics,Chat,2026-10-04
+TICKET_088,CUST_088,I am happy with my purchase.,Fashion,Email,2026-10-05
+TICKET_089,CUST_089,My refund has not been processed.,Home,Phone,2026-10-06
+TICKET_090,CUST_090,My order has not arrived yet.,Electronics,Email,2026-10-07
+TICKET_091,CUST_091,I want to return my damaged product.,Fashion,Chat,2026-10-08
+TICKET_092,CUST_092,The payment was deducted twice.,Electronics,Phone,2026-10-09
+TICKET_093,CUST_093,Thank you for the excellent service.,Home,Email,2026-10-10
+TICKET_094,CUST_094,I cannot log in to my account.,Software,Chat,2026-10-11
+TICKET_095,CUST_095,Please cancel my order immediately.,Fashion,Phone,2026-10-12
+TICKET_096,CUST_096,The product quality is very poor.,Home,Email,2026-10-13
+TICKET_097,CUST_097,I received the wrong item.,Electronics,Chat,2026-10-14
+TICKET_098,CUST_098,I am happy with my purchase.,Fashion,Email,2026-10-15
+TICKET_099,CUST_099,My refund has not been processed.,Home,Phone,2026-10-16
