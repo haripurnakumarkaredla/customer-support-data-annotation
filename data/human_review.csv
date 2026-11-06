@@ -1,0 +1,11 @@
+ticket_id,message,auto_sentiment,human_sentiment,auto_intent,human_intent,auto_category,human_category,auto_priority,human_priority,review_status,reviewer_notes
+TICKET_000,My order has not arrived yet.,Negative,Negative,Delivery,Delivery,Order,Order,High,High,Reviewed,Auto labels verified
+TICKET_001,I want to return my damaged product.,Negative,Negative,Return,Return,Product,Product,High,High,Reviewed,Auto labels verified
+TICKET_002,The payment was deducted twice.,Negative,Negative,Payment,Payment,Payment,Payment,High,High,Reviewed,Auto labels verified
+TICKET_003,Thank you for the excellent service.,Positive,Positive,Feedback,Feedback,Service,Service,Low,Low,Reviewed,Auto labels verified
+TICKET_004,I cannot log in to my account.,Negative,Negative,Login,Login,Account,Account,High,High,Reviewed,Auto labels verified
+TICKET_005,Please cancel my order immediately.,Neutral,Neutral,Cancellation,Cancellation,Order,Order,High,High,Reviewed,Auto labels verified
+TICKET_006,The product quality is very poor.,Negative,Negative,Feedback,Feedback,Product,Product,High,High,Reviewed,Auto labels verified
+TICKET_007,I received the wrong item.,Negative,Negative,Return,Return,Order,Order,High,High,Reviewed,Wrong item received; return or replacement required.
+TICKET_008,I am happy with my purchase.,Positive,Positive,Feedback,Feedback,Product,Product,Low,Low,Reviewed,Positive feedback about purchased product.
+TICKET_009,My refund has not been processed.,Negative,Negative,Refund,Refund,Payment,Payment,High,High,Reviewed,Auto labels verified

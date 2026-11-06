@@ -1,0 +1,5 @@
+Annotation Field,Accuracy (%),Cohen's Kappa
+Sentiment,100.0,1.0
+Intent,100.0,1.0
+Category,100.0,1.0
+Priority,100.0,1.0
